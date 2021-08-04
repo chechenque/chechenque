@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Luis Angel
+#### Desarrollador Jr.
+![Desarrollador Jr.](https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/create-github-repository-and-add-newexisting-project-using-github-desktop/Images/github.png)
 
-<!--
-**chechenque/chechenque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenidos a mi perfil, aquí se encuentran algunos de los proyectos que he realizado.
 
-Here are some ideas to get you started:
+Habilidades: Java / Python / SQL / HTML / CSS / Spring / Js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estoy aprendiendo REACT, CUDA 
+- ⚡ Dato curioso: Me gusta jugar con mis amigos y aprender nuevas cosas. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chechenque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chechenque/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chechenque)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chechenque&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/chechenque)  
